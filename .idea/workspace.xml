@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbd67f29-9ab0-4946-9d38-e086b418be47" name="Default Changelist" comment="" />
+    <list default="true" id="dbd67f29-9ab0-4946-9d38-e086b418be47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/TodoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/TodoController.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,31 +21,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Controller/SessionController.php">
+        <entry file="file://$PROJECT_DIR$/templates/todo/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="-327">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Controller/TodoController.php">
+        <entry file="file://$PROJECT_DIR$/src/Controller/FirstController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="341">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
-                <element signature="e#314#336#0#PHP" expanded="true" />
+                <element signature="e#34#99#0#PHP" expanded="true" />
+                <element signature="e#364#387#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/todo/index.html.twig">
+        <entry file="file://$PROJECT_DIR$/src/Controller/TodoController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            <state relative-caret-position="-1482">
+              <caret line="103" column="73" selection-start-line="103" selection-start-column="73" selection-end-line="103" selection-end-column="73" />
+              <folding>
+                <element signature="e#249#296#0#PHP" />
+                <element signature="e#301#1080#0#PHP" />
+                <element signature="e#986#1008#0#PHP" expanded="true" />
+                <element signature="e#2184#2190#1#PHP" expanded="true" />
+                <element signature="e#3354#3360#1#PHP" expanded="true" />
+                <element signature="e#4517#4523#1#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="282">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -58,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="376">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
@@ -67,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="2726">
               <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
             </state>
           </provider>
@@ -111,6 +124,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,8 +138,8 @@
         <option value="$PROJECT_DIR$/templates/session/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Controller/SessionController.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/Controller/TodoController.php" />
         <option value="$PROJECT_DIR$/templates/todo/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Controller/TodoController.php" />
       </list>
     </option>
   </component>
@@ -237,17 +253,17 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="462" />
+    <option name="x" value="460" />
     <option name="y" value="205" />
     <option name="width" value="980" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,6 +280,12 @@
               <item name="formation" type="b2602c69:ProjectViewProjectNode" />
               <item name="formation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="formation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="formation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="formation" type="b2602c69:ProjectViewProjectNode" />
@@ -286,14 +308,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/Formation Symfony/central1920" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -324,18 +348,20 @@
       <workItem from="1571050791453" duration="1618000" />
       <workItem from="1571052475760" duration="5042000" />
       <workItem from="1572075165622" duration="613000" />
-      <workItem from="1572253832902" duration="2933000" />
+      <workItem from="1572253832902" duration="4974000" />
+      <workItem from="1573228843532" duration="47000" />
+      <workItem from="1574667408206" duration="1921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16988000" />
+    <option name="totallyTimeSpent" value="20997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23087248" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23726542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -348,7 +374,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.37058824" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.04405286" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.6203966" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -356,7 +382,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23087248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -369,7 +395,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.37058824" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.04405286" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.6203966" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -389,13 +415,31 @@
     <entry file="file://$PROJECT_DIR$/var/log/dev.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/FirstController.php">
+    <entry file="file://$PROJECT_DIR$/templates/second/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#34#99#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="658">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/session/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Session/SessionInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/SessionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -409,17 +453,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/second/index.html.twig">
+    <entry file="file://$PROJECT_DIR$/public/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="282">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/session/index.html.twig">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="376">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2726">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -451,55 +502,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Session/SessionInterface.php">
+    <entry file="file://$PROJECT_DIR$/src/Controller/FirstController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/SessionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/TodoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="341">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
-            <element signature="e#314#336#0#PHP" expanded="true" />
+            <element signature="e#34#99#0#PHP" expanded="true" />
+            <element signature="e#364#387#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/todo/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        <state relative-caret-position="-327">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/TodoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1482">
+          <caret line="103" column="73" selection-start-line="103" selection-start-column="73" selection-end-line="103" selection-end-column="73" />
+          <folding>
+            <element signature="e#249#296#0#PHP" />
+            <element signature="e#301#1080#0#PHP" />
+            <element signature="e#986#1008#0#PHP" expanded="true" />
+            <element signature="e#2184#2190#1#PHP" expanded="true" />
+            <element signature="e#3354#3360#1#PHP" expanded="true" />
+            <element signature="e#4517#4523#1#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
